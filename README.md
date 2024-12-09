@@ -33,10 +33,10 @@ And finally on the corner of Stryjska Street we passed within the shadow of the 
 
 The suburban houses were sinking, windows and all, into the exuberant tangle of blossom in their little gardens. Overlooked by the light of day, weeds and wild flowers of all kinds luxuriated quietly, glad of the interval for dreams beyond the margin of time on the borders of an endless day. An enormous sunflower, lifted on a powerful stem and suffering from hypertrophy, clad in the yellow mourning of the last sorrowful days of its life, bent under the weight of its monstrous girth. But the naive suburban bluebells and unpretentious dimity flowers stood helpless in their starched pink and white shifts, indifferent to the sunflower’s tragedy.
 
-<p> Schulz, B. (1988) ‘August’ The Fictions of Bruno Schulz, THE STREET OF CROCODILES and SANATORIUM UNDER THE SIGN OF THE HOURGLASS. London: Picador, pp.15-17 </p>
-
 <p> Further reading </p> 
 
 The Street of Crocodiles and Other Stories Reader’s Guide, Penguin random House (https://www.penguinrandomhouse.com/books/293938/the-street-of-crocodiles-and-other-stories-by-bruno-schulz-foreword-by-jonathan-safran-foer-introduction-by-david-a-goldfarb-translated-by-celina-wieniewska/9780143105145/readers-guide/)
 
 Bruno Schulz: An Artist, A Murder, and the Hijacking of History review – an extraordinary mind and a cruel death, The Guardian (https://www.theguardian.com/books/2023/may/14/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-review-extraordinary-mind-cruel-death)
+<p> Bibliography </p> 
+<p> Schulz, B. (1988) ‘August’ The Fictions of Bruno Schulz, THE STREET OF CROCODILES and SANATORIUM UNDER THE SIGN OF THE HOURGLASS. London: Picador, pp.15-17 </p>
