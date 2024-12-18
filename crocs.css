@@ -1,50 +1,203 @@
-h1
-{ 
-    color:#3a5230;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ol {
+    list-style-position: inside;
+}
+
+li {
+    margin: 10px 0;
+  }
+
+.website-container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+.rotten-fruit-container {
+    display: flex;
+    height: 978px;
+}
+
+.rotten-fruit-img {
+    position: absolute;
+    width: 100%;
+    object-fit: contain;
+    z-index: 0;
+}
+
+.title {
+    z-index: 1;
+}
+
+.main-heading  {
+    font-family: "PT Serif","serif";
+    font-weight: 700;
+    font-size: 70px;
+    font-style: bold;
+    background-color: #4B7E45;
+    color: #dd7e0a;
+    
+    border-radius: 10px;
+    text-indent: 20px;
+}
+
+.heading-container {
+    position: relative;
+    height: 30px;
+    transform: translate(10%, 2280%);
+    width: 1160px;
+}
+
+.sub-heading  {
+    position: relative;
+    transform: translate(-495%, 110%);
+    background-color: #4B7E45;
+    color: #dd7e0a;;
+    text-indent: 14px;
+    border-radius: 5px;
+} 
+
+.subheading-container {
+    position: relative;
+    height: 20px;
+    transform: translate(42%, 3980%);
+    width: 230px;
+}
+
+.contents-section-1 {
+    background-color:#4B7E45;
+    padding: 0 50px;
+    text-decoration: underline;
+}
+
+.contents-section-2 {
+    padding: 3rem 0 3rem 0;
+    background-color: #4B7E45;
+    padding: 0 50px;
+}
+
+.contents-title {
+    font-size: 55px;
+    color: #FEF1D1;
+    font-weight: 200;
+}
+
+.summary-section {
+    background-color:#695551;
+    padding: 0 40px;
+}
+
+.about-author-title {
+    font-size: 55px;
+    text-decoration: underline;
+    color: #FEF1D1;
+    font-weight: 200;
+}
+
+.about-author-section {
+    display: flex;
+    flex-direction: column;
+    padding: 0 30px;
+    padding-bottom: 20px;
+    background-color: #4B7E45;
+}
+.img-text-section {
+    display: flex;
+    gap: 30px;
+}
+
+.old-bruno-img {
+    width: 500px;
+    border-radius: 50%;
+    float: right;
+}
+
+.about-author-font {
+    font-size: 40px;
+    color: #FEF1D1;
+    font-weight: 200;
+    text-align: center;
+}
+
+.extract-section {
+    display: flex;
+    align-items: center;
+    background-color:#695551;
+    height: 150px;
+}
+
+.collapsible {
+    text-align: center;
+    font-size: 40px;
+    height: 40px;
+    background-color:#695551;
+    color: #FEF1D1;
+    cursor: pointer;
+    width: 100%;
+  }
+
+.naked-lady-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #4B7E45;
+    display: none;
+    overflow: hidden;
+    padding: 0 60px;
+}
+
+.naked-lady-title {
+    font-size: 55px;
+    text-decoration: underline;
+    color: #FEF1D1;
+    font-weight: 200;
+    text-align: center;
+}
+
+.naked-lady-img {
+    width: 500px;
+}
+
+.naked-lady-font {
+    font-size: 30px;
+    color: #FEF1D1;
+    font-weight: 200;
 }
 
 
+h2
+{
+    color:#af886e;
+          
+          .pt-serif-bold {
+            font-family: "PT Serif", serif;
+            font-weight: 700;
+            font-size: 2rem;
+            font-style: bold;
+          }
+            
 
-
+}
 
 /*default styles for whole page*/
 body {
-    color:#101010;
-    border-color: #101010;
-    background-color: #302929;
-    }
-    /* content container to centre content */
-    .container {
-    max-width: 1020px;
-    margin: 0 auto 0 auto;
+    color:#ffffff;
+    border-color: #ffffff;
+    background-color: #ffffff;
     }
 
 
-.color-block {
-    padding: 3rem 0 3rem 0;
-    background-color: #3a5230;
-    margin-bottom: 2.5rem; }
+.colour-block {
+    background-color: #695551;
+}
 
-    .colour-block1 {
-        padding: 3rem 0 3rem 0;
-        background-color: #c79d34;
-        margin-bottom: 2.5rem; }
+footer {
+    clear:left;
+}
 
-        .colour-block2 {
-            padding: 3rem 0 3rem 0;
-            background-color: #882e19;
-            margin-bottom: 2.5rem; }
-
-            .colour-block3 {
-                padding: 3rem 0 3rem 0;
-                background-color: #708436;
-                margin-bottom: 2.5rem; }
-
-                .colour-block4 {
-                    padding: 3rem 0 3rem 0;
-                    background-color: #882e19;
-                    margin-bottom: 2.5rem; }
-
-
-                    
+.colour-block5 {
+    padding: 3rem 3rem 3rem 3rem;
+    background-color: #dd7e0a;
+    margin-bottom: 2.5rem; 
+    border: 10px solid #4B7E45;
+    border-radius: 0 0 20px 20px;
+}
