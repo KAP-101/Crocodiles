@@ -13,16 +13,10 @@ li {
     overflow-x: hidden;
 }
 
-.rotten-fruit-container {
-    display: flex;
-    height: 978px;
-}
 
 .rotten-fruit-img {
-    position: absolute;
     width: 100%;
     object-fit: contain;
-    z-index: 0;
 }
 
 .title {
@@ -77,9 +71,21 @@ li {
 }
 
 .contents-title {
-    font-size: 55px;
+    font-size: 5vw;
     color: #FEF1D1;
     font-weight: 200;
+}
+
+li {
+    font-size: 2vw;
+}
+
+#further {
+    color: #FEF1D1;
+}
+
+#Bibliography {
+    color: #FEF1D1;
 }
 
 .summary-section {
@@ -88,7 +94,7 @@ li {
 }
 
 .about-author-title {
-    font-size: 55px;
+    font-size: 5vw;
     text-decoration: underline;
     color: #FEF1D1;
     font-weight: 200;
@@ -107,13 +113,14 @@ li {
 }
 
 .old-bruno-img {
-    width: 500px;
+    width: 40vw;
+    height: 40vw;
     border-radius: 50%;
     float: right;
 }
 
 .about-author-font {
-    font-size: 40px;
+    font-size: 3vw;
     color: #FEF1D1;
     font-weight: 200;
     text-align: center;
@@ -128,7 +135,7 @@ li {
 
 .collapsible {
     text-align: center;
-    font-size: 40px;
+    font-size: 3vw;
     height: 40px;
     background-color:#695551;
     color: #FEF1D1;
@@ -146,7 +153,7 @@ li {
 }
 
 .naked-lady-title {
-    font-size: 55px;
+    font-size: 5vw;
     text-decoration: underline;
     color: #FEF1D1;
     font-weight: 200;
@@ -154,11 +161,12 @@ li {
 }
 
 .naked-lady-img {
-    width: 500px;
+    width: 30vw;
+    height: 45vw;
 }
 
 .naked-lady-font {
-    font-size: 30px;
+    font-size: 2vw;
     color: #FEF1D1;
     font-weight: 200;
 }
@@ -167,15 +175,11 @@ li {
 h2
 {
     color:#af886e;
-          
-          .pt-serif-bold {
-            font-family: "PT Serif", serif;
-            font-weight: 700;
-            font-size: 2rem;
-            font-style: bold;
-          }
-            
+    font-size: 2.5vw;  
+}
 
+p {
+    font-size: 1.5vw;
 }
 
 /*default styles for whole page*/
